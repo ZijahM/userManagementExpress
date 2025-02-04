@@ -49,8 +49,4 @@ This is an Express.js implementation of a User Management System with in-memory 
 ## Postman Collection
 Import the Postman collection to test all APIs.
 
-## Testing
-Coming soon...
-
-## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+## For the users the commented part is for MongoDB integration
